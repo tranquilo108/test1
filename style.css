@@ -13,7 +13,7 @@ body {
 }
 
 .container {
-    width: 500px;
+    width: 400px;
     background: linear-gradient(to top left, powderblue, pink);
     padding: 8px 4px;
     position: absolute;
@@ -54,7 +54,7 @@ label {
 .box {
     display: flex;
     justify-content: space-between;
-    gap: 25%;
+    gap: 20%;
 }
 
 .wrapper-1 input, .wrapper-2 input{
